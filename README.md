@@ -36,4 +36,4 @@ set cross "/usr/bin/gcc"
 ```
 
 ## Thanks
-A special shout out to _Caleb Stewart_ for being helpful as I pushed through learning the pwncat framework from a dev perspective. I will get a pull request to put this in the main pwncat escalate module someday when I have free time... I promise. :-) 
+A special shout out to [Caleb Stewart](https://github.com/calebstewart/pwncat) for being helpful as I pushed through learning the pwncat framework from a dev perspective. I will get a pull request to put this in the main pwncat escalate module someday when I have free time... I promise. :-) 
